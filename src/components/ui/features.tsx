@@ -18,8 +18,8 @@ const features = [
     icon: MessageSquare,
   },
   {
-    name: "AI Analysis",
-    description: "Extract insights and patterns with advanced AI analysis.",
+    name: "ChatGPT for Videos",
+    description: "Chat, interact, extract insights and patterns with advanced AI analysis.",
     icon: Sparkles,
   },
 ];

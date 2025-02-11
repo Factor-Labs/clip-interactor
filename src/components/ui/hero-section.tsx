@@ -18,7 +18,7 @@ export function HeroSection() {
             <span className="block text-primary-foreground">AI Intelligence</span>
           </h1>
           <p className="max-w-2xl mx-auto text-lg text-gray-600">
-            Transform how you interact with long-form videos. Search, analyze, and extract insights instantly with our advanced AI technology.
+            Transform how you interact with long-form videos. Chat, Search, analyze, and extract insights instantly with our advanced AI technology.
           </p>
         </div>
         
