@@ -15,7 +15,7 @@ export function HeroSection() {
           </div>
           <h1 className="text-5xl md:text-6xl font-bold tracking-tight text-gray-900">
             Navigate Videos with
-            <span className="block text-primary-foreground">AI Intelligence</span>
+            <span className="block text-primary-foreground">AI</span>
           </h1>
           <p className="max-w-2xl mx-auto text-lg text-gray-600">
             Transform how you interact with long-form videos. Chat, search, analyze, and extract insights instantly with our advanced AI technology.
